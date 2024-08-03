@@ -3,7 +3,6 @@ Allow: /
 Allow: /archives/
 Allow: /categories/
 Allow: /about/
-Allow: /spare-the-child/
 
 User-agent: Baiduspider
 Disallow: /
@@ -13,4 +12,4 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /lib/
-Sitemap: https://www.nemolaw.com/sitemap.xml
+Sitemap: https://lynelluo.github.io/sitemap.xml
